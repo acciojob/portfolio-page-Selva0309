@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+*{
+	font-family: calibri, Arial, Helvetica;
+}
+img {
+	border: 5px solid blue;
+	border-radius: 55%;
+	padding:5px
+}
